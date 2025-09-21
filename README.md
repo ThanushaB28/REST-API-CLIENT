@@ -22,3 +22,5 @@ This Java application serves as a REST API client that consumes weather data fro
 
 **Technical Implementation:**
 The application utilizes Java's built-in `HttpURLConnection` class to establish HTTP connections with the Open-Meteo weather API, a free public service that provides comprehensive meteorological data without requiring API key authentication. The implementation follows RESTful principles by making a GET request to the API endpoint configured with specific parameters for London's geographical coordinates (latitude: 51.5074, longitude: -0.1278).
+
+OutPut*:
